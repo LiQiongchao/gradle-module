@@ -1,0 +1,7 @@
+rootProject.name = 'gradle-multiple-moudle'
+include 'module-bean'
+include 'module-dao'
+include 'module-service'
+include 'module-web'
+include 'module-mobile-web'
+
